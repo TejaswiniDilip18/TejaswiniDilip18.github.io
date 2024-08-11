@@ -1,8 +1,8 @@
-# TejaswiniDilip18.github.io
+# Portfolio Website
 
 ## Live Site
 
-Check out my portfolio live at: [https://TejaswiniDilip18.github.io/portfolio](https://TejaswiniDilip18.github.io)
+Check out my portfolio live at: [https://TejaswiniDilip18.github.io](https://TejaswiniDilip18.github.io)
 
 
 ## About Me
@@ -32,5 +32,4 @@ Hello! I'm Tejaswini, a graduate student pursuing an MS in Robotics with a Compu
 - Email: deore.t@northeastern.edu
 - LinkedIn: [https://github.com/TejaswiniDilip18]
 
-## Resume
-[assets/pdfs/Resume_Tejaswini Dilip Deore.pdf]
+## [Resume](assets/pdfs/Resume_Tejaswini Dilip Deore.pdf)
