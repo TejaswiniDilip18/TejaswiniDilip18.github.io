@@ -32,4 +32,5 @@ Hello! I'm Tejaswini, a graduate student pursuing an MS in Robotics with a Compu
 - Email: deore.t@northeastern.edu
 - LinkedIn: [https://github.com/TejaswiniDilip18]
 
-## [Resume](assets/pdfs/Resume_Tejaswini Dilip Deore.pdf)
+## Resume
+[Resume file](assets/pdfs/Resume_Tejaswini Dilip Deore.pdf)
