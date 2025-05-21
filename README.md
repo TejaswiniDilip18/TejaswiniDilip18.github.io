@@ -6,7 +6,8 @@ Check out my portfolio live at: [https://TejaswiniDilip18.github.io](https://Tej
 
 
 ## About Me
-Hello! I'm Tejaswini, a recent graduate with MS in Robotics with a Computer Science concentration from Northeastern University. My passion lies in Computer Vision, Deep Learning, and Machine Learning, and I'm excited about leveraging these technologies to solve complex problems in robotics.
+This portfolio showcases my journey as a robotics engineer — blending projects in computer vision, perception, and system design.
+Built to reflect my curiosity, hands-on experience, and love for learning and building intelligent systems.
 
 ## Projects
 
@@ -26,7 +27,7 @@ Hello! I'm Tejaswini, a recent graduate with MS in Robotics with a Computer Scie
 - Hardware Tools: ZED Camera, ZED-F9P (RTK-GPS), VN-100 IMU, GSM, HC-SR501 (PIR Sensor)
 
 ## Education
-- MS in Robotics, Northeastern University (Expected graduation: Dec 2024)
+- MS in Robotics, Northeastern University
 - BTech in Electronics and Telecommunication, MKSSS's Cummins College of Engineering for Women
 
 ## Feel free to reach out to me
